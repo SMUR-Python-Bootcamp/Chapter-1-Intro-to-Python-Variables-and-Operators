@@ -2,6 +2,7 @@
 
 This workshop is designed for anyone new to Python or programming.  
 Whether you’re starting completely from scratch or just have a little experience, we’ll guide you through the basics and then move on to powerful tools like **pandas** and **NumPy**.
+
 The materials can be found in the notebook(ipynb) file. Clone this repository or download the ipynb to get started.
 
 ---
