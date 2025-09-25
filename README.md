@@ -18,7 +18,7 @@ The materials can be found in the notebook(ipynb) file. Clone this repository or
   1. Put your final solutions into the assignment# **`.py` file(s)** in your GitHub Classroom repository.  
   2. Follow the naming conventions and function signatures exactly as instructed.  
   3. Commit and push your changes to GitHub.  
-  4. The **autograder will run automatically** on your pushed code and report back your score.  
+  4. The **autograder will run automatically** on your pushed code and report back your score. You can check it in the **Actions** tab.  
 # Assignment 1: Intro to Python
 
 ## How to run tests locally
