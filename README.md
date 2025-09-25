@@ -2,6 +2,7 @@
 
 This workshop is designed for anyone new to Python or programming.  
 Whether you’re starting completely from scratch or just have a little experience, we’ll guide you through the basics and then move on to powerful tools like **pandas** and **NumPy**.
+The materials can be found in the notebook(ipynb) file. Clone this repository or download the ipynb to get started.
 
 ---
 
@@ -11,7 +12,7 @@ Whether you’re starting completely from scratch or just have a little experien
 - Try out the examples as you go—these skills will be especially useful when we start solving real-world problems in our projects.
 
 ### 📝 Submitting Your Work (GitHub Classroom Autograder)
-- Practice and test your code in this notebook as much as you like.  
+- Practice and test your code in the notebook as much as you like.  
 - For grading, you must:  
   1. Put your final solutions into the required **`.py` file(s)** in your GitHub Classroom repository.  
   2. Follow the naming conventions and function signatures exactly as instructed.  
