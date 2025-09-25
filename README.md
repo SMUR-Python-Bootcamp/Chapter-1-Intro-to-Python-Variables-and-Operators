@@ -15,10 +15,24 @@ The materials can be found in the notebook(ipynb) file. Clone this repository or
 ### 📝 Submitting Your Work (GitHub Classroom Autograder)
 - Practice and test your code in the notebook as much as you like.  
 - For grading, you must:  
-  1. Put your final solutions into the required **`.py` file(s)** in your GitHub Classroom repository.  
+  1. Put your final solutions into the assignment# **`.py` file(s)** in your GitHub Classroom repository.  
   2. Follow the naming conventions and function signatures exactly as instructed.  
   3. Commit and push your changes to GitHub.  
   4. The **autograder will run automatically** on your pushed code and report back your score.  
+# Assignment 1: Intro to Python
+
+## How to run tests locally
+Before submitting, you can run the tests yourself:
+
+```bash
+pip install pytest   # first time only
+pytest
+```
+
+If all tests pass, you should see:
+```bash
+================== 5 passed in 0.05s ==================
+```
 
 ⚠️ Important: Only `.py` files are graded — code left in the notebook will not be seen by the autograder.  
 
